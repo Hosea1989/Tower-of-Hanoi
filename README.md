@@ -1,2 +1,10 @@
 # Tower-of-Hanoi
-When you have a certain amount of disk, there's a sequence to how you would get all of your disk from peg 1 to peg 3 using recursion. 
+Course: CSC 220 - Data Structures
+
+Name: Tower of Hanoi
+
+    When you have 3 disks (n=3), 
+    what is the sequence of how disk is moved from its source peg to the target peg 
+    
+    When you have 5 disks (n=5),
+    what is the sequence of how disk is moved from its source peg to the target peg 
